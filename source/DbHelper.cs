@@ -9,6 +9,7 @@ using MySoft.Common.DataBase;
 
 namespace My.Tools.InstallDB
 {
+    //test
     public class DbHelper
     {
         private static IDBHelper fCS;
